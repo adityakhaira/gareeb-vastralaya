@@ -1,0 +1,182 @@
+{
+  "products": [
+    {
+      "id": "p-1",
+      "name": "Royal Peach Saree",
+      "slug": "royal-peach-saree",
+      "category": "Sarees",
+      "description": "A festive saree with graceful drape and soft shimmer for celebrations.",
+      "status": "published",
+      "featured": true,
+      "seoTitle": "Royal Peach Saree | Gareeb Vastarlaya",
+      "seoDescription": "Explore the Royal Peach Saree in Jhansi and shop festive ready-to-wear styles.",
+      "images": [
+        {
+          "imageUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+          "altText": "Royal Peach Saree"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v-1",
+          "sku": "GV-SR-001",
+          "barcode": null,
+          "attributes": {
+            "colour": "Peach",
+            "fabric": "Silk blend"
+          },
+          "pricePaise": 249900,
+          "compareAtPricePaise": 289900,
+          "active": true,
+          "inventory": {
+            "availableQuantity": 11,
+            "lowStockThreshold": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-2",
+      "name": "Emerald Bridal Lehenga",
+      "slug": "emerald-bridal-lehenga",
+      "category": "Lehengas",
+      "description": "A premium lehenga with a rich emerald finish for weddings and festive gatherings.",
+      "status": "published",
+      "featured": true,
+      "seoTitle": "Emerald Bridal Lehenga | Gareeb Vastarlaya",
+      "seoDescription": "Shop emerald bridal lehengas in Jhansi with elegant textures and festive-ready silhouettes.",
+      "images": [
+        {
+          "imageUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+          "altText": "Emerald Bridal Lehenga"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v-2",
+          "sku": "GV-LH-101",
+          "barcode": null,
+          "attributes": {
+            "colour": "Emerald",
+            "fabric": "Net with embroidery"
+          },
+          "pricePaise": 329900,
+          "compareAtPricePaise": 389900,
+          "active": true,
+          "inventory": {
+            "availableQuantity": 7,
+            "lowStockThreshold": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-3",
+      "name": "Classic Maroon Saree",
+      "slug": "classic-maroon-saree",
+      "category": "Sarees",
+      "description": "Classic maroon styling with elegant texture for everyday elegance and family functions.",
+      "status": "published",
+      "featured": false,
+      "seoTitle": "Classic Maroon Saree | Gareeb Vastarlaya",
+      "seoDescription": "Classic maroon saree for everyday elegance and family events in Jhansi.",
+      "images": [
+        {
+          "imageUrl": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=80",
+          "altText": "Classic Maroon Saree"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v-3",
+          "sku": "GV-SR-015",
+          "barcode": null,
+          "attributes": {
+            "colour": "Maroon",
+            "fabric": "Cotton silk"
+          },
+          "pricePaise": 189900,
+          "compareAtPricePaise": 229900,
+          "active": true,
+          "inventory": {
+            "availableQuantity": 18,
+            "lowStockThreshold": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "p-4",
+      "name": "Festive Gold Lehenga",
+      "slug": "festive-gold-lehenga",
+      "category": "Lehengas",
+      "description": "A festive gold lehenga suited for gatherings, puja, and family celebrations.",
+      "status": "published",
+      "featured": true,
+      "seoTitle": "Festive Gold Lehenga | Gareeb Vastarlaya",
+      "seoDescription": "Explore festive gold lehengas in Jhansi with elegant detailing and great value.",
+      "images": [
+        {
+          "imageUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+          "altText": "Festive Gold Lehenga"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v-4",
+          "sku": "GV-LH-230",
+          "barcode": null,
+          "attributes": {
+            "colour": "Gold",
+            "fabric": "Georgette"
+          },
+          "pricePaise": 279900,
+          "compareAtPricePaise": 329900,
+          "active": true,
+          "inventory": {
+            "availableQuantity": 9,
+            "lowStockThreshold": 4
+          }
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Sarees",
+    "Lehengas",
+    "Festive Wear",
+    "Wedding Wear"
+  ],
+  "orders": [
+    {
+      "id": "o-1793052465727",
+      "orderNumber": "GV-465727",
+      "orderReference": "GV-465727",
+      "customerName": "Test Customer",
+      "customerEmail": "",
+      "customerPhone": "9999999999",
+      "shippingAddressSnapshot": {
+        "address": "Jhansi",
+        "city": "Jhansi",
+        "state": "UP",
+        "postalCode": "284001"
+      },
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "subtotalPaise": 249900,
+      "discountPaise": 0,
+      "shippingPaise": 0,
+      "taxPaise": 0,
+      "totalPaise": 249900,
+      "createdAt": "2026-10-26T22:07:45.727Z",
+      "items": [
+        {
+          "sku": "GV-SR-001",
+          "name": "Royal Peach Saree",
+          "quantity": 1,
+          "lineTotalPaise": 249900
+        }
+      ]
+    }
+  ]
+}
