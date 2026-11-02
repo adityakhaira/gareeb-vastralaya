@@ -64,7 +64,7 @@
           "compareAtPricePaise": 389900,
           "active": true,
           "inventory": {
-            "availableQuantity": 7,
+            "availableQuantity": 6,
             "lowStockThreshold": 4
           }
         }
@@ -175,6 +175,36 @@
           "name": "Royal Peach Saree",
           "quantity": 1,
           "lineTotalPaise": 249900
+        }
+      ]
+    },
+    {
+      "id": "o-1793085133157",
+      "orderNumber": "GV-133157",
+      "orderReference": "GV-133157",
+      "customerName": "aditya khaira",
+      "customerEmail": "adityakhaira2202@gmail.com",
+      "customerPhone": "888888888c",
+      "shippingAddressSnapshot": {
+        "address": "67 ,sj, jhnsi",
+        "city": "dc",
+        "state": "up",
+        "postalCode": "254888"
+      },
+      "paymentStatus": "pending",
+      "orderStatus": "pending",
+      "subtotalPaise": 329900,
+      "discountPaise": 0,
+      "shippingPaise": 0,
+      "taxPaise": 0,
+      "totalPaise": 329900,
+      "createdAt": "2026-10-27T07:12:13.157Z",
+      "items": [
+        {
+          "sku": "GV-LH-101",
+          "name": "Emerald Bridal Lehenga",
+          "quantity": 1,
+          "lineTotalPaise": 329900
         }
       ]
     }
